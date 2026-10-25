@@ -1,5 +1,6 @@
-# 💫 About Me:
-## 💫 About Me<br><br>🔭 I’m currently working on scalable, cloud-native systems and observability solutions<br><br>👯 I’m looking to collaborate on backend systems, distributed systems, and open-source projects<br><br>🤝 I’m looking for help with system design and building highly scalable applications<br><br>🌱 I’m currently learning system design, advanced DSA, and cloud-native technologies<br><br>💬 Ask me about React Native, Node.js, JavaScript, OpenTelemetry, AWS, and Kubernetes<br><br>⚡ Fun fact: I enjoy solving challenging LeetCode problems and understanding how systems work under the hood!
+
+## 💫 About Me<br>
+🔭 I’m currently working on scalable, cloud-native systems and observability solutions<br>👯 I’m looking to collaborate on backend systems, distributed systems, and open-source projects<br>🤝 I’m looking for help with system design and building highly scalable applications<br>🌱 I’m currently learning system design, advanced DSA, and cloud-native technologies<br>💬 Ask me about React Native, Node.js, JavaScript, OpenTelemetry, AWS, and Kubernetes<br>⚡ Fun fact: I enjoy solving challenging LeetCode problems and understanding how systems work under the hood!
 
 
 ## 🌐 Socials:
